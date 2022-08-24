@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hanbuying
+- 👋 Hi, I’m @hanbuying  
 - 👀 I’m interested in biology
 - 🌱 I’m currently learning bioinformatic
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m currently working on XiNing
+- 📫 keep runing
 
 <!---
 hanbuying/hanbuying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
